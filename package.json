@@ -1,0 +1,31 @@
+{
+  "name": "tracerstudy",
+  "version": "1.0.0",
+  "description": "The National University of Lesotho Tracer Study App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mpkuena/tracerstudy.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "makhaola",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mpkuena/tracerstudy/issues"
+  },
+  "homepage": "https://github.com/mpkuena/tracerstudy#readme",
+  "devDependencies": {
+    "concurrently": "^5.0.2",
+    "nodemon": "^2.0.2"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.4",
+    "express": "^4.17.1"
+  }
+}
